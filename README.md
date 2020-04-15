@@ -17,15 +17,15 @@ pip install tensorflow_gpu
 # Index
 
 1. **Convolutional Neural Network - cnnExample.py**
-  Use TensorFlow 2.0 'layers' and 'model' API to build a convolutional neural network to classify MNIST digits dataset.
+    Use TensorFlow 2.0 'layers' and 'model' API to build a convolutional neural network to classify MNIST digits dataset.
   
   
 2. **Image Transformation / Image Augmentation - imageTransformation.py**
-  Apply various image augmentation techniques, to generate distorted images for training
+    Apply various image augmentation techniques, to generate distorted images for training
     * Random contrast
     * Random hue
     * Random saturation
     * Random flip
   
 3. **Build Custom Layers & Modules - customLayersNN.py**
-  Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
+    Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
