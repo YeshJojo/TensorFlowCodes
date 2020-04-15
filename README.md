@@ -29,3 +29,15 @@ pip install tensorflow_gpu
   
 3. **Build Custom Layers & Modules - customLayersNN.py**
     Learn how to build your own layers / modules and integrate them into TensorFlow 2.0 Models.
+    
+4. **Simple Neural Network - neuralNetworkExample.py**
+    Build a simple neural network (a.k.a Multi-layer Perceptron) to classify MNIST digits dataset. Raw TensorFlow implementation.
+    
+5. **Linear Regression - linearRegression.py**
+    Implement a Linear Regression with TensorFlow
+
+6. **Logistic Regression - logisticRegression.py**
+    Implement a Logistic Regression with TensorFlow
+    
+7. **K-Means classifier - kmeans-ft.py**
+    Implement a K-Means classifier with TensorFlow
