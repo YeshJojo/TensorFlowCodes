@@ -16,7 +16,7 @@ pip install tensorflow_gpu
 
 # Index
 
-1. **Convolutional Neural Network - [cnnExample.py] **(https://github.com/YeshJojo/TensorFlowCodes/blob/master/cnnExample.py"):
+1. **Convolutional Neural Network - [cnnExample.py](https://github.com/YeshJojo/TensorFlowCodes/blob/master/cnnExample.py"):
    Use TensorFlow 2.0 'layers' and 'model' API to build a convolutional neural network to classify MNIST digits dataset.
   
   
