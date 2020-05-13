@@ -41,3 +41,9 @@ pip install tensorflow_gpu
     
 7. K-Means classifier - [kmeans-ft.py](https://github.com/YeshJojo/TensorFlowCodes/blob/master/kmeans-ft.py) :
    Implement a K-Means classifier with TensorFlow
+   
+8. Genetic Algorithm using TSP problem - [geneticAlgoTSP.py](https://github.com/YeshJojo/TensorFlowCodes/blob/master/geneticAlgoTSP.py) :
+   Implemention of a Genetic algorithm using TSP problem. Genetic Algorithm (GA) is a search-based optimization technique based on the principles of Genetics and Natural Selection. It is frequently used to find optimal or near-optimal solutions to difficult problems which otherwise would take a lifetime to solve.
+   
+9. K-Means classifier - [geneticAlgorithm.py](https://github.com/YeshJojo/TensorFlowCodes/blob/master/geneticAlgorithm.py) :
+   Implemention of a Genetic algorithm. A genetic algorithm is a search heuristic that is inspired by Charles Darwin's theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction in order to produce offspring of the next generation.
